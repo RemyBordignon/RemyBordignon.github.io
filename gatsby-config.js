@@ -5,7 +5,6 @@
  */
 
 module.exports = {
-  pathPrefix: "/RemyBordignon.github.io",
   plugins: [
     'gatsby-plugin-sass'
   ]
