@@ -12,7 +12,7 @@ const Contact = () => {
          {email}
         </code>
       </pre>
-      <p><a href={"https://www.linkedin.com/in/remybordignon"}>LinkedIn</a></p>
+      <p>Or contact me on <a href={"https://www.linkedin.com/in/remybordignon"}>LinkedIn</a></p>
     </Layout>
   )
 }
